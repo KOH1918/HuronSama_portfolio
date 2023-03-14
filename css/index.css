@@ -1,6 +1,13 @@
-.box{
-    width: 400px; 
-    height: 200px; 
-    background: green;
-    transform: rotate(35deg);
+.blue-box{
+    
+    background-image: url(../img/nath-Recurso-10.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+
+.green-box{
+    
+    background-image: url(../img/nath-Recurso-12.png);
+    background-size:contain;
+    background-repeat: no-repeat;
 }
